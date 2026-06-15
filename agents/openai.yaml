@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Rate Reset"
+  short_description: "Inspect and use Codex reset credits"
+  default_prompt: "Use $codex-rate-reset to query Codex reset credits for my Sub2API OpenAI OAuth accounts."
