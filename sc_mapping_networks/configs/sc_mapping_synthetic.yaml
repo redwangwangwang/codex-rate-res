@@ -1,0 +1,8 @@
+dataset: synthetic
+target: cnn
+rank: 32
+basis_batches: 32
+epochs: 5
+batch_size: 128
+lr: 0.01
+z_weight_decay: 0.0001
