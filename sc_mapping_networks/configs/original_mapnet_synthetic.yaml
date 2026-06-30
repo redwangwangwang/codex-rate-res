@@ -1,0 +1,7 @@
+dataset: synthetic
+target: cnn
+latent_dim: 512
+hidden_dim: 256
+epochs: 5
+batch_size: 128
+lr: 0.003
